@@ -18,7 +18,7 @@ Furthermore, I want to see your skills in writing code: code style, structure, c
 Also, to make commits, you should investigate how this code works, find bugs and be able to contribute.
 
 ## How to run
-    - Create virtual environment (optional): `python -m venv venv && source venv/bin/activate`
-    - Install dependencies: `pip install -r requirements.txt`
-    - Set environment variables: `export TOKEN=<your_token>`
-    - Run the project: `python -m bot`
+ - Create virtual environment (optional): `python -m venv venv && source venv/bin/activate`
+ - Install dependencies: `pip install -r requirements.txt`
+ - Set environment variables: `export TOKEN=<your_token>`
+ - Run the project: `python -m bot`
